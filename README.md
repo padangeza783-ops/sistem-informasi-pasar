@@ -62,6 +62,6 @@ flutter run
 
 ## Pengembang
 
-- Nama : (Isi Nama Kamu)
+- Nama : Eza Pramudita
 - Proyek : Sistem Informasi Pasar Tradisional
 - Tahun : 2026
